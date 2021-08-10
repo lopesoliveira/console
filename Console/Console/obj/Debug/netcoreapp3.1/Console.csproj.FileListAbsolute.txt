@@ -1,0 +1,13 @@
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Projects\Other\CSharp\Console\Console\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.csproj.AssemblyReference.cache
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Projects\Other\CSharp\Console\Console\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
